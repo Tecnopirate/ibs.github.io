@@ -1,0 +1,125 @@
+header
+{
+    background-color: #002060;
+    height: 400px;
+    
+}
+.call{
+ background-color: #CD4B17;
+ display: inline-block;
+ width: 130px;
+ height: 35px;
+ padding-top: 4px;
+ box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+}
+h1, h2, h3,a {
+        font-family: "Bebas Neue", sans-serif;
+    
+}
+p
+{
+    font-family: "Montserrat", sans-serif;
+}
+span
+{
+    color: #F08218;
+}
+.section1
+{
+    background-image: url('images_ibs/BACKGROUND.png');
+    background-repeat: no-repeat;
+    
+    background-color: #002060;
+
+}
+
+.p1
+{
+    height: 305px;
+   width: 253px;
+    
+}
+
+.ps1
+{
+    background-image: url('images_ibs/Rectangle\ 7.png');
+    background-repeat: no-repeat;
+
+    height:250px;
+
+    position: relative;
+    top:40px;
+   
+}
+.stylo
+{
+    
+    box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    
+}
+.h2-s1{
+    color: #FAF9F9;
+}
+.section2
+{
+    background-color: #002060;
+
+}
+
+.h1-2
+{
+    height: 100px;  
+    
+}
+.tt{
+    height: 545px;
+    padding-top:140px ;
+}
+.y{
+  margin-top: 50px;
+
+}
+nav
+{
+    border-bottom: 2px dashed white;
+}
+.logo
+{
+    box-shadow: 14px 6px 25px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+.pe
+{
+    box-shadow: 14px 6px 25px rgba(0, 0, 0, 0.5);
+    border-radius: 40px;
+}
+
+.wb{
+    box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+    border-radius: 40px;
+}
+
+.section3
+{
+    background-color: #002060; 
+}
+.yo{
+    height: 600px;
+}
+
+footer
+{
+    background-color:  #002060;
+    border-top: 2px dashed white;
+}
+.lo{
+    box-shadow: 14px 6px 25px rgba(0, 0, 0, 0.5);
+}
+.ty{
+    position:relative;
+    bottom: 5px;
+    left: 255px;
+}
+
+
